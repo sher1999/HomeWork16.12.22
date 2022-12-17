@@ -1,0 +1,15 @@
+D:\coftclub\C#\week1\16.12.22\class work\Task2AutoProperties\bin\Debug\net7.0\Task2AutoProperties.exe
+D:\coftclub\C#\week1\16.12.22\class work\Task2AutoProperties\bin\Debug\net7.0\Task2AutoProperties.deps.json
+D:\coftclub\C#\week1\16.12.22\class work\Task2AutoProperties\bin\Debug\net7.0\Task2AutoProperties.runtimeconfig.json
+D:\coftclub\C#\week1\16.12.22\class work\Task2AutoProperties\bin\Debug\net7.0\Task2AutoProperties.dll
+D:\coftclub\C#\week1\16.12.22\class work\Task2AutoProperties\bin\Debug\net7.0\Task2AutoProperties.pdb
+D:\coftclub\C#\week1\16.12.22\class work\Task2AutoProperties\obj\Debug\net7.0\Task2AutoProperties.csproj.AssemblyReference.cache
+D:\coftclub\C#\week1\16.12.22\class work\Task2AutoProperties\obj\Debug\net7.0\Task2AutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week1\16.12.22\class work\Task2AutoProperties\obj\Debug\net7.0\Task2AutoProperties.AssemblyInfoInputs.cache
+D:\coftclub\C#\week1\16.12.22\class work\Task2AutoProperties\obj\Debug\net7.0\Task2AutoProperties.AssemblyInfo.cs
+D:\coftclub\C#\week1\16.12.22\class work\Task2AutoProperties\obj\Debug\net7.0\Task2AutoProperties.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week1\16.12.22\class work\Task2AutoProperties\obj\Debug\net7.0\Task2AutoProperties.dll
+D:\coftclub\C#\week1\16.12.22\class work\Task2AutoProperties\obj\Debug\net7.0\refint\Task2AutoProperties.dll
+D:\coftclub\C#\week1\16.12.22\class work\Task2AutoProperties\obj\Debug\net7.0\Task2AutoProperties.pdb
+D:\coftclub\C#\week1\16.12.22\class work\Task2AutoProperties\obj\Debug\net7.0\Task2AutoProperties.genruntimeconfig.cache
+D:\coftclub\C#\week1\16.12.22\class work\Task2AutoProperties\obj\Debug\net7.0\ref\Task2AutoProperties.dll

@@ -1,0 +1,15 @@
+D:\coftclub\C#\week1\16.12.22\class work\Task4Math\obj\Debug\net7.0\Task4Math.csproj.AssemblyReference.cache
+D:\coftclub\C#\week1\16.12.22\class work\Task4Math\obj\Debug\net7.0\Task4Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week1\16.12.22\class work\Task4Math\obj\Debug\net7.0\Task4Math.AssemblyInfoInputs.cache
+D:\coftclub\C#\week1\16.12.22\class work\Task4Math\obj\Debug\net7.0\Task4Math.AssemblyInfo.cs
+D:\coftclub\C#\week1\16.12.22\class work\Task4Math\obj\Debug\net7.0\Task4Math.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week1\16.12.22\class work\Task4Math\bin\Debug\net7.0\Task4Math.exe
+D:\coftclub\C#\week1\16.12.22\class work\Task4Math\bin\Debug\net7.0\Task4Math.deps.json
+D:\coftclub\C#\week1\16.12.22\class work\Task4Math\bin\Debug\net7.0\Task4Math.runtimeconfig.json
+D:\coftclub\C#\week1\16.12.22\class work\Task4Math\bin\Debug\net7.0\Task4Math.dll
+D:\coftclub\C#\week1\16.12.22\class work\Task4Math\bin\Debug\net7.0\Task4Math.pdb
+D:\coftclub\C#\week1\16.12.22\class work\Task4Math\obj\Debug\net7.0\Task4Math.dll
+D:\coftclub\C#\week1\16.12.22\class work\Task4Math\obj\Debug\net7.0\refint\Task4Math.dll
+D:\coftclub\C#\week1\16.12.22\class work\Task4Math\obj\Debug\net7.0\Task4Math.pdb
+D:\coftclub\C#\week1\16.12.22\class work\Task4Math\obj\Debug\net7.0\Task4Math.genruntimeconfig.cache
+D:\coftclub\C#\week1\16.12.22\class work\Task4Math\obj\Debug\net7.0\ref\Task4Math.dll

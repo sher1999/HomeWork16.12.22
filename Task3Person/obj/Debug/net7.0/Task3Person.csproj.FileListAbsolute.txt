@@ -1,0 +1,15 @@
+D:\coftclub\C#\week1\16.12.22\class work\Task3Person\bin\Debug\net7.0\Task3Person.exe
+D:\coftclub\C#\week1\16.12.22\class work\Task3Person\bin\Debug\net7.0\Task3Person.deps.json
+D:\coftclub\C#\week1\16.12.22\class work\Task3Person\bin\Debug\net7.0\Task3Person.runtimeconfig.json
+D:\coftclub\C#\week1\16.12.22\class work\Task3Person\bin\Debug\net7.0\Task3Person.dll
+D:\coftclub\C#\week1\16.12.22\class work\Task3Person\bin\Debug\net7.0\Task3Person.pdb
+D:\coftclub\C#\week1\16.12.22\class work\Task3Person\obj\Debug\net7.0\Task3Person.csproj.AssemblyReference.cache
+D:\coftclub\C#\week1\16.12.22\class work\Task3Person\obj\Debug\net7.0\Task3Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week1\16.12.22\class work\Task3Person\obj\Debug\net7.0\Task3Person.AssemblyInfoInputs.cache
+D:\coftclub\C#\week1\16.12.22\class work\Task3Person\obj\Debug\net7.0\Task3Person.AssemblyInfo.cs
+D:\coftclub\C#\week1\16.12.22\class work\Task3Person\obj\Debug\net7.0\Task3Person.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week1\16.12.22\class work\Task3Person\obj\Debug\net7.0\Task3Person.dll
+D:\coftclub\C#\week1\16.12.22\class work\Task3Person\obj\Debug\net7.0\refint\Task3Person.dll
+D:\coftclub\C#\week1\16.12.22\class work\Task3Person\obj\Debug\net7.0\Task3Person.pdb
+D:\coftclub\C#\week1\16.12.22\class work\Task3Person\obj\Debug\net7.0\Task3Person.genruntimeconfig.cache
+D:\coftclub\C#\week1\16.12.22\class work\Task3Person\obj\Debug\net7.0\ref\Task3Person.dll
